@@ -1,0 +1,26 @@
+{
+  "name": "it_pupil_secendhomework",
+  "version": "1.0.0",
+  "description": "2020软件工程第二次作业",
+  "main": "hello.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selfdefine/2020SWEH.git"
+  },
+  "author": "selfdefine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selfdefine/2020SWEH/issues"
+  },
+  "homepage": "https://github.com/selfdefine/2020SWEH#readme"
+}
