@@ -3,6 +3,7 @@
 2020 SoftWare Engineering HomeWork
 
 ## 第二次作业
+
 若要运行单元测试
 
 ```shell
@@ -16,3 +17,7 @@ npm test
 cd it_pupil_secendHomeWork
 node maxSum-test.js
 ```
+
+## 第三次作业
+
+c++ 模拟商城
