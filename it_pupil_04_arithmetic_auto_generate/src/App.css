@@ -1,0 +1,27 @@
+.header {
+  border: 1px solid #eee;
+  display: flex;
+  /* height: 25vh; */
+}
+
+.header div {
+  margin: 1%;
+}
+
+.header .left {
+  width: 48%;
+  /* height: 20%; */
+  /* float: left; */
+}
+
+.header .right {
+  /* float: left; */
+  width: 48%;
+}
+
+.body {
+  width: 100%;
+  font-family: "Microsoft YaHei";
+  font-weight: bold;
+  font-size: large;
+}
