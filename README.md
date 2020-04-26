@@ -21,3 +21,14 @@ node maxSum-test.js
 ## 第三次作业
 
 c++ 模拟商城
+
+## 第四次作业
+
+四则运算自动生成
+
+开发模式运行程序
+
+```shell
+yarn
+yarn start
+```
